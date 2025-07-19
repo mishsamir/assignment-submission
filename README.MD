@@ -2,11 +2,11 @@
 
 [![Azure Functions](https://img.shields.io/badge/Azure-Functions-blue.svg)](https://azure.microsoft.com/services/functions/)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **CST8917 Assignment 1** - A serverless, event-driven image processing pipeline that automatically extracts metadata from uploaded images and stores it in Azure SQL Database.
 
 ---
+
 
 ## 🚀 **Quick Start**
 
@@ -66,7 +66,7 @@ CREATE TABLE ImageMetadata (
 
 ### 📂 Repository & Documentation
 - **Source Code**: [`function_app.py`](https://github.com/mishsamir/assignment-submission.git)
-- **Demo Video**: [🎥 Watch Pipeline in Action]()
+- **Demo Video**: [🎥 Watch Pipeline in Action](https://youtu.be/0Av9htUtzy4?si=UJKz-Z-pX1ykMn90)
 - **ChatGPT Session**: [Development Assistance](https://chatgpt.com/c/686f7383-b690-8001-b753-8d933822e2b6)
 
 ### 🔧 Azure Resources
